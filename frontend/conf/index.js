@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "http://15.206.169.86:8082" };
+const config = { backendEndpoint: "https://qtrip-dynamic-backend-rust.vercel.app" };
 
 export default config;
