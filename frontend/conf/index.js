@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "https://qtrip-dynamic-backend-rust.vercel.app" };
+const config = { backendEndpoint: "https://qtrip-dynamic-lu9a.onrender.com" };
 
 export default config;
